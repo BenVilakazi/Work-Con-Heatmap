@@ -1,0 +1,14 @@
+{
+  "name": "@mourner/workout-consistency-heatmap",
+  "main": "6a17c8fc9f62bead@555.js",
+  "version": "555.0.0",
+  "homepage": "https://observablehq.com/@mourner/workout-consistency-heatmap",
+  "author": {
+    "name": "Volodymyr Agafonkin",
+    "url": "https://observablehq.com/@mourner"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
